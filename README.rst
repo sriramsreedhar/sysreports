@@ -23,6 +23,6 @@ pip install sysreports
 
 Dependencies 
 -------------
-OS
-SHUTIL
+OS |
+SHUTIL |
 DATETIME
