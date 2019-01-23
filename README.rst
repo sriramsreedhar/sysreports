@@ -19,3 +19,10 @@ Features
 Install
 ---------
 pip install sysreports
+
+
+Dependencies 
+-------------
+OS
+SHUTIL
+DATETIME
